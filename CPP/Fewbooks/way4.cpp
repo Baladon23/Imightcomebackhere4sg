@@ -1,5 +1,6 @@
 #include <iostream>
 #include <stdlib.h>
+//input example in the first code
  
 using namespace std;
  
