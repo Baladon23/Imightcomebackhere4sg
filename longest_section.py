@@ -1,4 +1,3 @@
-#lsec mint longest section; mindig agyament fgvneveket eszelek ki
 def lsec(a, b, c, l):
     if a == 0:
         return c
@@ -17,3 +16,6 @@ for i in range(1,1001):
       maxi = i
 
 print(maxi)
+#This program finds the largest proper prime between 1 and 1000.
+#N is a proper prime, if 1/N contains the longest repeating section
+#til N. 7 is a PP, because in 1/7 there are 7-1=6 repeating numbers.
