@@ -1,6 +1,6 @@
 #include <iostream>
 #include <stdlib.h>
-//input example in the first code
+//input: Arany János;Toldi;10;8
  
 using namespace std;
  
